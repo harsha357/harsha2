@@ -1,3 +1,3 @@
-z=list(input())
-z.append('.')
-print(''.join(z))
+a=str(input())
+b="."
+print(a+b)
