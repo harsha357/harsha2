@@ -1,5 +1,5 @@
 l=str(input())
-a=["monday","tuesday","wed","thurs","fri"]
+a=["Monday","Tuesday","Wednesday","Thursday","Friday"]
 if l in a:
   print("no")
 else:
